@@ -32,7 +32,7 @@
           <li class="float-left icon-plus"><i class="fas fa-plus"></i></li>
           <li class="float-left"><figure class="image is-64x64"><img src="~/assets/javascript.svg"></figure></li>
           <li class="float-left icon-plus"><i class="fas fa-plus"></i></li>
-          <li class="float-left"><figure class="image is-64x64"><img src="~/assets/firebase.svg"></figure></li>
+          <li class="float-left"><figure class="image is-64x64"><img src="~/assets/netlify.svg"></figure></li>
         </ul>
       </div>
     </div>
