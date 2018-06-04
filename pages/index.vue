@@ -20,7 +20,13 @@
         <h1 class="title">
           This Site
         </h1>
-        <p class="this-site-label">初めて作ったポートフォリオです。勉強中のNuxtを使って作ってみました。</p>
+        <p>初めて作ったポートフォリオです。勉強中のNuxtを使って作ってみました。</p>
+        <p>Qiitaにこのサイトの記事を投稿していますのでそちらもご覧頂けると幸いです。</p>
+        <p>
+          <a href="https://qiita.com/_neekoko/items/aaedba104bb4997ab976">
+            レガシーエンジニアがNuxtでサイトを公開してみた！
+          </a>
+        </p>
         <ul>
           <li class="float-left"><figure class="image is-64x64"><img src="~/assets/vue.svg"></figure></li>
           <li class="float-left icon-plus"><i class="fas fa-plus"></i></li>
@@ -48,10 +54,6 @@
 
   i {
     margin-right: 3px;
-  }
-
-  .this-site-label {
-    margin-bottom: 15px;
   }
 
   .float-left {
