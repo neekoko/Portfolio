@@ -1,0 +1,32 @@
+{
+  "name": "nekoko_portfolio",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Yuta <seika0pom@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
+    "@nuxtjs/bulma": "^1.2.0",
+    "@nuxtjs/font-awesome": "^1.0.3",
+    "bulma": "^0.7.1",
+    "bulma-extensions": "^1.0.31",
+    "node-sass": "^4.9.0",
+    "nuxt": "^1.0.0",
+    "sass-loader": "^7.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0"
+  }
+}
