@@ -26,12 +26,6 @@
           <li class="float-left icon-plus"><i class="fas fa-plus"></i></li>
           <li class="float-left"><figure class="image is-64x64"><img src="~/assets/nuxt.svg"></figure></li>
           <li class="float-left icon-plus"><i class="fas fa-plus"></i></li>
-          <li class="float-left"><figure class="image is-64x64"><img src="~/assets/html-5.svg"></figure></li>
-          <li class="float-left icon-plus"><i class="fas fa-plus"></i></li>
-          <li class="float-left"><figure class="image is-64x64"><img src="~/assets/css-3.svg"></figure></li>
-          <li class="float-left icon-plus"><i class="fas fa-plus"></i></li>
-          <li class="float-left"><figure class="image is-64x64"><img src="~/assets/javascript.svg"></figure></li>
-          <li class="float-left icon-plus"><i class="fas fa-plus"></i></li>
           <li class="float-left"><figure class="image is-64x64"><img src="~/assets/netlify.svg"></figure></li>
         </ul>
       </div>
