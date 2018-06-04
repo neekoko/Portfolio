@@ -16,6 +16,7 @@
     "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
     "@nuxtjs/bulma": "^1.2.0",
     "@nuxtjs/font-awesome": "^1.0.3",
+    "@nuxtjs/pwa": "^2.0.8",
     "bulma": "^0.7.1",
     "bulma-extensions": "^1.0.31",
     "node-sass": "^4.9.0",

@@ -16,7 +16,8 @@ module.exports = {
   },
 
   modules: [
-    '@nuxtjs/bulma'
+    '@nuxtjs/bulma',
+    '@nuxtjs/pwa'
   ],
 
   css: [
