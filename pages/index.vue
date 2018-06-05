@@ -24,7 +24,7 @@
         <p>Qiitaにこのサイトの記事を投稿していますのでそちらもご覧頂けると幸いです。</p>
         <p>
           <a href="https://qiita.com/_neekoko/items/aaedba104bb4997ab976">
-            レガシーエンジニアがNuxtでサイトを公開してみた！
+            Nuxt+Netlifyでサイトを公開してみた！
           </a>
         </p>
         <ul>
