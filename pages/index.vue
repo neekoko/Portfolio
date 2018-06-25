@@ -7,6 +7,8 @@
         </h1>
         <p>新卒でSIerへ入社。保険や銀行系のシステム開発を経験し、レガシーな開発ではなくモダンなWeb開発がしたくて</p>
         <p>転職して1年が経ちました。最近はVue.js、Nuxt.jsにハマっています。</p>
+        <p>あとDockerも使ってみたくなったので触ってます。デザインにも興味あります(*'▽'*)
+        </p>
         <p>散歩が好きです。よく歩きます。疲れたら喫茶店に立ち寄りコーヒで一息つくのが大好きです。</p>
         <ul class="content-list">
           <li><i class="fab fa-github fa-lg"></i><a href="https://github.com/neekoko">neekoko</a></li>
